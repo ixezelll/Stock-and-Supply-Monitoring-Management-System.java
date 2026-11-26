@@ -145,7 +145,7 @@ java StockSupplyMonitoringSystem
 
 ## Author and Acknowledgement
 
-This program is created by `[Insert Group Name]` from `[Insert Section]` in compliance with the final project requirement in the course Object-Oriented Programming.
+This program is created by The CodeWrights from BSIT 2109 in compliance with the final project requirement in the course Object-Oriented Programming.
 
 Lead Programmer:
 Lucero, Reinier Isaac A.
@@ -156,7 +156,7 @@ Fallurin, Fritz Andrew F.
 Tordecilla, Prince Jon S.
 Lucero, Reinier Isaac A.
 
-Special thanks to `[Insert Instructor's Name]` for guidance and introducing the OOP concepts used in this project.
+Special thanks to Sir. Dominic Miko Valdez for guidance and introducing the OOP concepts used in this project.
 
 ## Future Enhancements
 
