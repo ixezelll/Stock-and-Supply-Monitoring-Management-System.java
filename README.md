@@ -1,4 +1,3 @@
-# Stock-and-Supply-Monitoring-Management-System.java
 # Stock and Supply Monitoring System
 
 **Description:** "Stock and Supply Monitoring System" is a console-based inventory and supply-release management program that allows authenticated staff to log in, view inventory with stock status indicators, restock items, add or remove items, and review transaction history, while enabling users to request and release available supplies. The program demonstrates how classes, collections, and conditional logic organize inventory operations and stock tracking in Java.
@@ -93,7 +92,7 @@ javac -version
 7. Open `StockSupplyMonitoringSystem.java` and run the program or open a terminal in the project folder and compile/run:
 
 ```bash
-javac StockSupplyMonitoringSystem.java
+java StockSupplyMonitoringSystem.java
 java StockSupplyMonitoringSystem
 ```
 
@@ -120,40 +119,42 @@ java StockSupplyMonitoringSystem
 
 1. **Main Menu**
    Displays the main options for the Stock and Supply Monitoring System.
-   `[Insert screenshot of the Main Menu here]`
+   <img width="387" height="307" alt="Screenshot 2026-11-26 124831" src="https://github.com/user-attachments/assets/69d104f3-ae05-4d87-a8e9-2f67be7f0178" />
 
 2. **Staff Login & Staff Menu**
    Shows staff authentication and the six management options available after logging in.
-   `[Insert screenshot of the Staff Login & Staff Menu here]`
+   <img width="392" height="287" alt="Screenshot 2026-11-26 124646" src="https://github.com/user-attachments/assets/1d4e1b75-31d1-4a55-9174-68b2678098fc" />
 
 3. **View Inventory**
    Displays item details along with `OUT OF STOCK`, `LOW STOCK`, or `AVAILABLE` status.
-   `[Insert screenshot of View Inventory here]`
+   <img width="592" height="371" alt="Screenshot 2026-11-26 124725" src="https://github.com/user-attachments/assets/5163c1c3-2572-4a8a-a758-f9e9abc91e7a" />
 
 4. **Add Stock, Add New Item & Remove Item**
    Shows inventory updates made by staff and confirmation messages.
-   `[Insert screenshot of Add Stock / Add New Item / Remove Item here]`
+  <img width="590" height="453" alt="Screenshot 2026-11-26 124738" src="https://github.com/user-attachments/assets/2675f4d2-4f18-4170-a152-673998f05816" />
+  <img width="483" height="502" alt="Screenshot 2026-11-26 124712" src="https://github.com/user-attachments/assets/7f4c1b71-2d6c-4b36-aa54-43d2b352ab4c" />
+  <img width="597" height="408" alt="Screenshot 2026-11-26 124820" src="https://github.com/user-attachments/assets/36d83cbf-be7e-4a9a-b9d8-91b410f2afec" />
 
-5. **Get Supplies**
-   Shows supply selection, stock deduction, remaining stock, and low/out-of-stock alerts.
-   `[Insert screenshot of Get Supplies here]`
-
-6. **View Transaction History**
+5. **View Transaction History**
    Displays the recorded log of added stock, new/removed items, and released supplies.
-   `[Insert screenshot of View Transaction History here]`
+  <img width="596" height="385" alt="Screenshot 2026-11-26 124754" src="https://github.com/user-attachments/assets/dfa505f5-07a0-4e26-a430-abc2c59e5d1e" />
+
+6. **Logout**
+   Displays the Logged out.
+  <img width="387" height="307" alt="Screenshot 2026-11-26 124831" src="https://github.com/user-attachments/assets/4810b1f8-b950-4820-9824-285c174f094f" />
 
 ## Author and Acknowledgement
 
 This program is created by `[Insert Group Name]` from `[Insert Section]` in compliance with the final project requirement in the course Object-Oriented Programming.
 
 Lead Programmer:
-`[Insert Name]`
+Lucero, Reinier Isaac A.
 
 Members:
-`[Insert Member 1]`
-`[Insert Member 2]`
-`[Insert Member 3]`
-`[Insert Member 4]`
+Plata, Greizel I.
+Fallurin, Fritz Andrew F.
+Tordecilla, Prince Jon S.
+Lucero, Reinier Isaac A.
 
 Special thanks to `[Insert Instructor's Name]` for guidance and introducing the OOP concepts used in this project.
 
